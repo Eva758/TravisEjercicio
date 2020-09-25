@@ -1,3 +1,5 @@
-Language: java
-Jdk: oraclejdk8
-dist: trusty
+language: java
+script:
+- cd DemoTravis
+- mvn build
+- mvn test
