@@ -1,4 +1,4 @@
-package ProyectoMaven;
+package quickstart;
 
 /**
  * Hello world!
